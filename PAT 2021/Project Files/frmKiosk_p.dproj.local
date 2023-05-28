@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/01 15:23:52.113.pas,C:\Users\dhaya\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\dhaya\OneDrive\Documents\IT\New folder\frmLogin_u.pas</Transaction>
+    <Transaction>2021/11/01 15:23:52.113.dfm,C:\Users\dhaya\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\dhaya\OneDrive\Documents\IT\New folder\frmLogin_u.dfm</Transaction>
+    <Transaction>2021/11/01 15:23:58.960.dproj,C:\Users\dhaya\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\dhaya\OneDrive\Documents\IT\New folder\frmKiosk_p.dproj</Transaction>
+    <Transaction>2021/11/18 19:17:11.598.pas,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmHome_u.pas=</Transaction>
+    <Transaction>2021/11/18 19:17:11.598.dfm,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmHome_u.dfm=</Transaction>
+    <Transaction>2021/11/18 19:20:01.863.pas,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmHome_u.pas=</Transaction>
+    <Transaction>2021/11/18 19:20:01.863.dfm,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmHome_u.dfm=</Transaction>
+    <Transaction>2021/11/18 19:21:33.535.pas,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmLogin2_u.pas=C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmHome_u.pas</Transaction>
+    <Transaction>2021/11/18 19:21:33.535.dfm,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmLogin2_u.dfm=C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmHome_u.dfm</Transaction>
+    <Transaction>2021/11/18 19:22:02.496.pas,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmHome_u.pas=C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmLogin2_u.pas</Transaction>
+    <Transaction>2021/11/18 19:22:02.496.dfm,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmHome_u.dfm=C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmLogin2_u.dfm</Transaction>
+    <Transaction>2021/11/18 19:22:22.715.pas,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmHome_u.pas=</Transaction>
+    <Transaction>2021/11/18 19:22:22.715.dfm,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmHome_u.dfm=</Transaction>
+    <Transaction>2021/11/18 19:24:36.521.pas,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmHome_u.pas=</Transaction>
+    <Transaction>2021/11/18 19:24:36.521.dfm,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmHome_u.dfm=</Transaction>
+    <Transaction>2021/11/18 19:29:40.028.pas,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\Unit1.pas=C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmHome_u.pas</Transaction>
+    <Transaction>2021/11/18 19:29:40.028.dfm,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\Unit1.dfm=C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmHome_u.dfm</Transaction>
+    <Transaction>2021/11/18 20:06:40.361.pas,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\Unit1.pas=C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmHomeG_u.pas</Transaction>
+    <Transaction>2021/11/18 20:06:40.361.dfm,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\Unit1.dfm=C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmHomeG_u.dfm</Transaction>
+    <Transaction>2021/11/19 10:18:42.640.pas,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\Unit1.pas=C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmInfo_u.pas</Transaction>
+    <Transaction>2021/11/19 10:18:42.640.dfm,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\Unit1.dfm=C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmInfo_u.dfm</Transaction>
+    <Transaction>2021/11/19 10:31:22.075.pas,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\Unit1.pas=C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\dmMain_u.pas</Transaction>
+    <Transaction>2021/11/19 10:31:22.075.dfm,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\Unit1.dfm=C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\dmMain_u.dfm</Transaction>
+    <Transaction>2021/11/19 11:32:19.108.pas,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\Unit1.pas=C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmMenu_u.pas</Transaction>
+    <Transaction>2021/11/19 11:32:19.108.dfm,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\Unit1.dfm=C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmMenu_u.dfm</Transaction>
+    <Transaction>2021/11/19 12:23:20.496.pas,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\Unit1.pas=C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmMenu2_u.pas</Transaction>
+    <Transaction>2021/11/19 12:23:20.496.dfm,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\Unit1.dfm=C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmMenu2_u.dfm</Transaction>
+    <Transaction>2021/11/19 15:12:18.459.pas,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\Unit1.pas=C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmCheckout_u.pas</Transaction>
+    <Transaction>2021/11/19 15:12:18.459.dfm,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\Unit1.dfm=C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmCheckout_u.dfm</Transaction>
+    <Transaction>2021/11/19 17:15:11.820.pas,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\Unit1.pas=C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmHist_u.pas</Transaction>
+    <Transaction>2021/11/19 17:15:11.820.dfm,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\Unit1.dfm=C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmHist_u.dfm</Transaction>
+    <Transaction>2021/11/19 18:00:15.238.pas,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\Unit1.pas=C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmInfoM_u.pas</Transaction>
+    <Transaction>2021/11/19 18:00:15.238.dfm,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\Unit1.dfm=C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmInfoM_u.dfm</Transaction>
+    <Transaction>2021/11/19 20:01:59.789.pas,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\Unit1.pas=C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmMenuM_u.pas</Transaction>
+    <Transaction>2021/11/19 20:01:59.789.dfm,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\Unit1.dfm=C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmMenuM_u.dfm</Transaction>
+    <Transaction>2021/11/19 20:18:28.582.pas,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\Unit1.pas=C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmMenuM2_u.pas</Transaction>
+    <Transaction>2021/11/19 20:18:28.582.dfm,C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\Unit1.dfm=C:\Users\dhaya\OneDrive\School\IT\PAT 2021\Project Files\frmMenuM2_u.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="frmLogin2_u.pas"/>
+    <File Path="frmLogin2_u.dfm"/>
+    <File Path="frmLogin_u.pas"/>
+    <File Path="frmLogin_u.dfm"/>
+    <File Path="frmHome_u.pas"/>
+    <File Path="frmHome_u.dfm"/>
+    <File Path="frmHomeG_u.pas"/>
+    <File Path="frmHomeG_u.dfm"/>
+    <File Path="frmInfo_u.pas"/>
+    <File Path="frmInfo_u.dfm"/>
+    <File Path="dmMain_u.pas"/>
+    <File Path="dmMain_u.dfm"/>
+    <File Path="frmMenu_u.pas"/>
+    <File Path="frmMenu_u.dfm"/>
+    <File Path="frmMenu2_u.pas"/>
+    <File Path="frmMenu2_u.dfm"/>
+    <File Path="frmCheckout_u.pas"/>
+    <File Path="frmCheckout_u.dfm"/>
+    <File Path="frmHist_u.pas"/>
+    <File Path="frmHist_u.dfm"/>
+    <File Path="frmInfoM_u.pas"/>
+    <File Path="frmInfoM_u.dfm"/>
+    <File Path="frmMenuM_u.pas"/>
+    <File Path="frmMenuM_u.dfm"/>
+    <File Path="frmMenuM2_u.pas"/>
+    <File Path="frmMenuM2_u.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
